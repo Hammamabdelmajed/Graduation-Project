@@ -1,4 +1,3 @@
-Based on the codebase context, you're asking for documentation about a comprehensive drone/quadcopter control system that combines multiple subsystems for wireless communication and autonomous flight control. 
 
 # Advanced Quadcopter Control System - Technical Documentation
 
