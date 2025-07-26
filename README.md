@@ -1,3 +1,6 @@
+# Link to the Graduation Thesis 
+
+https://docs.google.com/document/d/1a-LsJoxnYO1oyD0WwjFAUmHTbhnvIR_bXO7BxvFnocQ/edit?usp=sharing
 
 # Advanced Quadcopter Control System - Technical Documentation
 
